@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hassan-farooq-6
+- 👀 I’m interested in ... Programming and web devalopement
+- 🌱 I’m currently learning ... c++
+- 📫 How to reach me ... hassanfarooq2190@gmail.com
