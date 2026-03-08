@@ -97,17 +97,14 @@ I am a **Computer Science graduate** and **DevOps engineer** currently designing
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-farooq-6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=hassan-farooq-6&show_icons=true&theme=tokyonight&hide_border=true" alt="Hassan's GitHub Stats" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-farooq-6&theme=tokyonight&hide_border=true" alt="Hassan's GitHub Streak" />
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hassan-farooq-6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-farooq-6&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-farooq-6&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
