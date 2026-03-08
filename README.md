@@ -97,11 +97,7 @@ I am a **Computer Science graduate** and **DevOps engineer** currently designing
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hassan-farooq-6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-farooq-6&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=hassan-farooq-6&theme=tokyonight&hide_border=true" />
